@@ -1,6 +1,5 @@
 require("dotenv").config();
 const binaryData = require("../../config/binary.config.json");
-console.log(binaryData);
 exports.RawData2DeviceData = (data) => {
   try {
     if (!binaryData) return;
