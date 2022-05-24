@@ -1,0 +1,42 @@
+{
+    "dataType": 2,
+    "startIndex": 3,
+    "defaultKey": "st",
+    "clone": {
+      "enable": false,
+      "times": 12,
+      "startIndex": 1
+    },
+    "rawData": [
+      {
+        "key": "_v1",
+        "byteSize": 1,
+        "decimal": 2
+      },
+      {
+        "key": "_v2",
+        "byteSize": 1,
+        "decimal": 2
+      },
+      {
+        "key": "_v3",
+        "byteSize": 2,
+        "decimal": 2
+      },
+      {
+        "key": "_v4",
+        "byteSize": 2,
+        "decimal": 0
+      },
+      {
+        "key": "_v5",
+        "byteSize": 1,
+        "decimal": 0
+      },
+      {
+        "key": "_v6",
+        "byteSize": 1,
+        "decimal": 0
+      }
+    ]
+}
